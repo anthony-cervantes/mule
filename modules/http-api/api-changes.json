@@ -225,6 +225,14 @@
           "classSimpleName": "WebSocketProtocol",
           "elementKind": "enum",
           "justification": "@Experimental feature. Feature flagged by default"
+        },
+        {
+          "code": "java.class.added",
+          "new": "interface org.mule.runtime.http.api.ws.FragmentHandler",
+          "package": "org.mule.runtime.http.api.ws",
+          "classSimpleName": "FragmentHandler",
+          "elementKind": "interface",
+          "justification": "@Experimental feature. Feature flagged by default"
         }
       ]
     }
